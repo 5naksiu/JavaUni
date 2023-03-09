@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class SumaTablic {
 
     public static void main(String[] args) {
         int[] tablica1 = {1,2,3};
